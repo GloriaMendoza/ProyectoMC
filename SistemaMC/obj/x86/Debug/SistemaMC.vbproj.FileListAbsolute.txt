@@ -1,0 +1,29 @@
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\bin\Debug\SistemaMC.exe.config
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\bin\Debug\SistemaMC.exe
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\bin\Debug\SistemaMC.pdb
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\bin\Debug\SistemaMC.xml
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\obj\x86\Debug\SistemaMC.Busquedas.resources
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\obj\x86\Debug\SistemaMC.Resources.resources
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\obj\x86\Debug\SistemaMC.Transacciones.resources
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\obj\x86\Debug\SistemaMC.vbproj.GenerateResource.Cache
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\obj\x86\Debug\SistemaMC.exe
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\obj\x86\Debug\SistemaMC.xml
+C:\Users\Windows\AppData\Local\Temporary Projects\SistemaMC\obj\x86\Debug\SistemaMC.pdb
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\bin\Debug\SistemaMC.exe.config
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.exe
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.xml
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.pdb
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\bin\Debug\SistemaMC.exe
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\bin\Debug\SistemaMC.pdb
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\bin\Debug\SistemaMC.xml
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.vbprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.Busquedas.resources
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.Form1.resources
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.Resources.resources
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.Transacciones.resources
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.vbproj.GenerateResource.Cache
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\RdlCompile.cache
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.Tareas.resources
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.Form2.resources
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\SistemaMC\SistemaMC\obj\x86\Debug\SistemaMC.Form3.resources
